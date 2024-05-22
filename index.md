@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
 I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. Yongchao Xu.
 
