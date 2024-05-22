@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. Zhongyu Li.
+I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. Yongchao Xu.
 
 ## Research Interests
 
