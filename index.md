@@ -4,12 +4,8 @@ layout: homepage
 
 ## Short Bio
 
-I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. Yongchao Xu.
+I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. [Yongchao Xu](https://scholar.google.fr/citations?user=ArIg7-0AAAAJ&hl=fr).
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
