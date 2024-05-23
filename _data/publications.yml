@@ -1,7 +1,7 @@
 main:
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
-    authors: "**Haoyu Zhao**, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
+    authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -11,7 +11,7 @@ main:
     note: Under Review
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
-    authors: "**Haoyu Zhao**, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
+    authors: "<strong>Haoyu Zhao</strong>, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -21,7 +21,7 @@ main:
     note: Under Review
 
   - title: "WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising"
-    authors: "**Haoyu Zhao**, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
+    authors: "<strong>Haoyu Zhao</strong>, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
