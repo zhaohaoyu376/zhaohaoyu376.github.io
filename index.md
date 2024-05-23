@@ -18,8 +18,8 @@ Medical Image Analysis: image segmentation, image reconstruction
 {% include_relative _includes/publications.md %}
 
 ## Selected Awards and Honors
-· Outstanding undergraduate of Wuhan University, June. 2023
-· Wuhan University first-class scholarship, 2020-2023
+· Outstanding undergraduate of Wuhan University, June. 2023\\
+· Wuhan University first-class scholarship, 2020-2023\\
 · The Tianyuan Dico Scholarship, 2023
 · National College Students' Internet of Things Design Competition First Prize, 2023
   (全国大学生物联网设计竞赛全国一等奖)
