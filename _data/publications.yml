@@ -8,6 +8,7 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
+    note: Under Review
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
     authors: "**Haoyu Zhao**, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
@@ -17,7 +18,7 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    note: Under review
+    note: Under Review
 
   - title: "WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising"
     authors: "**Haoyu Zhao**, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
@@ -27,3 +28,4 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
+    note: Under Review
