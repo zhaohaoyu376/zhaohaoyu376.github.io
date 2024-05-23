@@ -21,9 +21,12 @@ Medical Image Analysis: image segmentation, image reconstruction
 - **[June. 2023]** Outstanding Undergraduate of Wuhan University   
 - **[2020-2023]** Wuhan University First-class Scholarship  
 - **[2023]** The Tianyuan Dico Scholarship (天源迪科奖学金)     
-- **[2022]** Chinese Collegiate Internet of Things Design Competition First Prize (全国大学生物联网设计竞赛全国一等奖)   
-- **[2022]** Chinese Collegiate Computing Competition Third Prize (全国计算机设计大赛全国三等奖)   
-- **[2021]** Citi Cup Third Prize (花旗杯全国三等奖)   
+- **[2022]** Chinese Collegiate Internet of Things Design Competition First Prize
+-            (全国大学生物联网设计竞赛全国一等奖)   
+- **[2022]** Chinese Collegiate Computing Competition Third Prize
+-    (全国计算机设计大赛全国三等奖)   
+- **[2021]** Citi Cup Third Prize
+-          (花旗杯全国三等奖)   
 
 
 
