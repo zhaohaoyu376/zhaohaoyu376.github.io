@@ -4,8 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am currently a 1th-year Master student at WuHan University, working under the mentorship of Dr. [Yongchao Xu](https://scholar.google.fr/citations?user=ArIg7-0AAAAJ&hl=fr). Before this, I received my B.S. degrees from WuHan University in 2023. My research involves medical image analysis and 3D vision.
-
+Haoyu Zhao currently is a 1th-year Master student in School of Computer Science at WuHan University, working under the mentorship of Dr. [Yongchao Xu](https://scholar.google.fr/citations?user=ArIg7-0AAAAJ&hl=fr) and [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). Before this, I received my B.S. degrees (Software Engineering and Finance) from WuHan University in 2023. My research involves medical image analysis and 3D vision. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
 ## News
 
