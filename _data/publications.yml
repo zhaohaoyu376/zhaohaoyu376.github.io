@@ -1,7 +1,7 @@
 main:
 
-  - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
-    authors: "Weixi Zheng, <strong>Haoyu Zhao</strong>, Yongchao Xu"
+  - title: "PCMIL: Prompt-guided Continual Multiple Instance Learning for Pathology Image Classification"
+    authors: "Weixi Zheng*, <strong>Haoyu Zhao*</strong>, Yongchao Xu (*equal contribution)"
     conference_short: BIBM
     conference: International Conference on Bioinformatics & Biomedicine <strong>(BIBM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
