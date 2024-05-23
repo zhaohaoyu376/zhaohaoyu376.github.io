@@ -1,6 +1,17 @@
 main:
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
+    authors: "Weixi Zheng, <strong>Haoyu Zhao</strong>, Yongchao Xu"
+    conference_short: BIBM
+    conference: International Conference on Bioinformatics & Biomedicine <strong>(BIBM)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Under Review
+
+
+  - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
