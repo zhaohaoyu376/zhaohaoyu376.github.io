@@ -2,41 +2,29 @@ main:
 
   - title: "PCMIL: Prompt-guided Continual Multiple Instance Learning for Pathology Image Classification"
     authors: "Weixi Zheng*, <strong>Haoyu Zhao*</strong>, Yongchao Xu (*equal contribution)"
-    conference_short: BIBM
     conference: International Conference on Bioinformatics & Biomedicine <strong>(BIBM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
     notes: Under Review
 
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
-    conference_short: BMVC
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
     notes: Under Review
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
     authors: "<strong>Haoyu Zhao</strong>, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
-    conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
     notes: Under Review
 
   - title: "WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising"
     authors: "<strong>Haoyu Zhao</strong>, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
-    conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
     notes: Under Review
