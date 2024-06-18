@@ -20,11 +20,11 @@ main:
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.11689
     code: https://github.com/MrGiovanni/ContinualLearning
-    notes: Under Review
+    notes:
 
   - title: "WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising"
     authors: "<strong>Haoyu Zhao</strong>, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.11672
     code: https://github.com/MrGiovanni/ContinualLearning
-    notes: Under Review
+    notes: 
