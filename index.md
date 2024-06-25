@@ -19,6 +19,10 @@ Haoyu Zhao currently is a 1th-year Master student in School of Computer Science 
 
 {% include_relative _includes/publications.md %}
 
+
+## Academic Service
+- Reviewer for PRCV (2024)
+
 ## Selected Awards and Honors
 - **[June. 2023]** Outstanding Undergraduate of Wuhan University (10%)   
     (武汉大学优秀毕业生)     
