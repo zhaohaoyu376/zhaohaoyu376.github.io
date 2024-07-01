@@ -12,19 +12,19 @@ main:
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/zhaohaoyu376/HFGS
     notes: Under Review
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
     authors: "<strong>Haoyu Zhao</strong>, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.11689
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/zhaohaoyu376/MoreStyle
     notes:
 
   - title: "WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising"
     authors: "<strong>Haoyu Zhao</strong>, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, Rui Yu"
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.11672
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/zhaohaoyu376/WI-LD2ND
     notes: 
