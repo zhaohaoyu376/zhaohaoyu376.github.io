@@ -1,5 +1,4 @@
 main:
-
   - title: "PCMIL: Prompt-guided Continual Multiple Instance Learning for Pathology Image Classification"
     authors: "Weixi Zheng*, <strong>Haoyu Zhao*</strong>, Yongchao Xu (*equal contribution)"
     conference: International Conference on Bioinformatics & Biomedicine <strong>(BIBM)</strong>, 2024.
@@ -9,9 +8,9 @@ main:
 
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
-    authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
+    authors: "<strong>Haoyu Zhao*</strong>, Xingyue Zhao*, Lingting Zhu, Weixi Zheng, Yongchao Xu(*equal contribution)"
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/pdf/2405.17872
     code: https://github.com/zhaohaoyu376/HFGS
     notes: Under Review
 
