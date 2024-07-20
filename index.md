@@ -15,7 +15,7 @@ Haoyu Zhao currently is a 1th-year Master student in School of Computer Science 
 
 ## News
 - **[June. 2024]** Two papers were accepted to MICCAI 2024.
-
+- **[July. 2024]** One paper was accepted to BMVC 2024.
 
 {% include_relative _includes/publications.md %}
 
