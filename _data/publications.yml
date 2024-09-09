@@ -16,7 +16,7 @@ main:
   - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
     authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
     conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>.
-    pdf: https://arxiv.org/pdf/2405.17872
+    pdf: https://arxiv.org/abs/2409.04356
     code: https://github.com/MrGiovanni/ContinualLearning
     notes: Under Review
   
