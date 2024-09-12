@@ -24,6 +24,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 ## Academic Service
 - Reviewer for PRCV (2024)
 
+## Experiences
+- **[June. 2024 - Sep. 2024]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
+
 ## Selected Awards and Honors
 - **[June. 2023]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
     (武汉大学优秀毕业生)     
