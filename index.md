@@ -14,8 +14,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 ## News
-- **[July. 2024]** One paper was accepted to BMVC 2024.
-- **[June. 2024]** Two papers were accepted to MICCAI 2024.
+- **[2024.7]** One paper was accepted to BMVC 2024.
+- **[2024.6]** Two papers were accepted to MICCAI 2024.
 
 
 {% include_relative _includes/publications.md %}
@@ -25,20 +25,20 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - Reviewer for PRCV (2024)
 
 ## Experiences
-- **[June. 2024 - Sep. 2024]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
+- **[2024.6 - 2024.9]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
 
 ## Selected Awards and Honors
-- **[June. 2023]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
+- **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
     (武汉大学优秀毕业生)     
 - **[2020-2023]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
     (武汉大学甲等奖学金)   
-- **[Oct. 2022]** The Tianyuan Dico Scholarship   
+- **[2022.10]** The Tianyuan Dico Scholarship   
     (天源迪科奖学金)     
-- **[Oct. 2022]** Chinese Collegiate Internet of Things Design Competition First Prize   
+- **[2022.10]** Chinese Collegiate Internet of Things Design Competition First Prize   
     (全国大学生物联网设计竞赛全国一等奖)   
-- **[June. 2022]** Chinese Collegiate Computing Competition Third Prize   
+- **[2022.7]** Chinese Collegiate Computing Competition Third Prize   
     (全国计算机设计大赛全国三等奖)   
-- **[Nov. 2021]** Citi Cup Third Prize   
+- **[2021.11]** Citi Cup Third Prize   
     (花旗杯全国三等奖)   
 
 
