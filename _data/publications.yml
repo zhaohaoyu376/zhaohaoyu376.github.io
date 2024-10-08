@@ -2,14 +2,14 @@ main:
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2405.17872
+    pdf: https://arxiv.org/pdf/2408.09665
     code: https://github.com/zhaohaoyu376/sggs
     notes: Under Review
 
   - title: "CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Chen Yang, Wei Shen"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2405.17872
+    pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
     notes: Under Review
 
