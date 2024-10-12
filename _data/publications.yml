@@ -1,31 +1,31 @@
 main:
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: 
     pdf: https://arxiv.org/pdf/2408.09665
     code: https://github.com/zhaohaoyu376/sggs
-    notes: Under Review
+    notes: 
 
   - title: "CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Chen Yang, Wei Shen"
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: 
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
-    notes: Under Review
+    notes:
 
   - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
     authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
-    conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>.
+    conference: 
     pdf: https://arxiv.org/abs/2409.04356
     code: 
-    notes: Under Review
+    notes: 
   
   - title: "Pathological Prior‑Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
     authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
-    conference: International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    conference:
     pdf:
     code:
-    notes: Under Review
+    notes:
 
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
