@@ -28,6 +28,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - **[2024.6 - 2024.9]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
 
 ## Selected Awards and Honors
+- **[2024.11]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
+    (武汉大学甲等奖学金)  
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
     (武汉大学优秀毕业生)     
 - **[2020-2023]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
