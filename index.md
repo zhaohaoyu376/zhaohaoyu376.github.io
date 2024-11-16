@@ -26,6 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 ## Experiences
 - **[2024.6 - 2024.9]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
+- **[2024.11 - ]** Research Intern, [Shanghai AI Lab]([https://www.sjtu.edu.cn/](https://www.shlab.org.cn/)), supervised by [Junting Dong]([https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=zh-CN&oi=ao)) and [Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=zh-CN&oi=ao)
 
 ## Selected Awards and Honors
 - **[2024.11]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
