@@ -1,4 +1,12 @@
 main:
+  - title: "Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting"
+    authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
+    conference: 
+    pdf: 
+    code: 
+    notes: 
+
+
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
     conference: 
