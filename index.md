@@ -20,8 +20,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications.md %}
-
 ## Academic Service
 - Reviewer for PRCV (2024)
 
