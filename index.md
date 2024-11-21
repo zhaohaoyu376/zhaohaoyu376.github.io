@@ -21,7 +21,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 {% include_relative _includes/publications.md %}
 
 ## Academic Service
-- Reviewer for PRCV (2024)
+- Reviewer for PRCV (2024), CVPR (2025)
 
 ## Experiences
 - **[2024.11 - ]** Research Intern, [Shanghai AI Lab]([https://www.sjtu.edu.cn/](https://www.shlab.org.cn/)), supervised by [Junting Dong]([https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=zh-CN&oi=ao)) and [Bo Dai](https://scholar.google.com/citations?user=KNWTvgEAAAAJ&hl=zh-CN&oi=ao)
