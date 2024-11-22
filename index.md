@@ -14,6 +14,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 ## News
+- **[2024.12]** One paper was accepted to ICASSP 2025.
 - **[2024.7]** One paper was accepted to BMVC 2024.
 - **[2024.6]** Two papers were accepted to MICCAI 2024.
 
