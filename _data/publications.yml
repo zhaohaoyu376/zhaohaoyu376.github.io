@@ -1,7 +1,7 @@
 main:
   - title: "Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
-    conference: 
+    conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/pdf/2411.12789
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
@@ -9,21 +9,21 @@ main:
 
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
-    conference: 
+    conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/pdf/2408.09665
     code: https://github.com/zhaohaoyu376/sggs
     notes: 
 
   - title: "CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Chen Yang, Wei Shen"
-    conference: 
+    conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
     notes:
 
   - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
     authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
-    conference: 
+    conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/abs/2409.04356
     code: 
     notes: 
