@@ -9,8 +9,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 ## Research Interests
+- **Embodied Intelligence**: 3D reconstruction, teleoperation, 3D Simulation  
 - **Medical Image Analysis**: image segmentation, image reconstruction  
-- **3D Vision**: 3D reconstruction  
 
 
 ## News
