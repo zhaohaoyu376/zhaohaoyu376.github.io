@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Short Bio
-Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [WuHan University](https://www.whu.edu.cn/). He received his B.S. degrees (Software Engineering) from WuHan University in 2023.
+Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [WuHan University](https://www.whu.edu.cn/). He received his B.S. degrees (Software Engineering) from [WuHan University](https://www.whu.edu.cn/) in 2023.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
